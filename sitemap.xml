@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://abdosmaison.fit/</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Articles Exercices -->
+  <url>
+    <loc>https://abdosmaison.fit/exercices-abdos-debutants.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/exercices-abdos-avances.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/planche-abdominale.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/crunch-abdominal.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Articles Nutrition -->
+  <url>
+    <loc>https://abdosmaison.fit/alimentation-abdos-visibles.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/aliments-bruler-graisse.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/proteines-abdos.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Articles Programmes -->
+  <url>
+    <loc>https://abdosmaison.fit/programme-4-semaines.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/programme-abdos-rapide.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/erreurs-abdos.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Pages légales -->
+  <url>
+    <loc>https://abdosmaison.fit/privacy.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>https://abdosmaison.fit/legal.html</loc>
+    <lastmod>2025-01-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
